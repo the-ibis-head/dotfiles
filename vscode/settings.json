@@ -1,0 +1,10 @@
+{
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.fontSize": 18,
+    "editor.formatOnSave": true,
+    "editor.minimap.enabled": false,
+    "files.insertFinalNewline": true,
+    "files.trimTrailingWhitespace": true,
+    "terminal.integrated.fontSize": 15,
+    "workbench.colorTheme": "Dark+"
+}
